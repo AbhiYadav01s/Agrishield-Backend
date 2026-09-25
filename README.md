@@ -4,9 +4,9 @@
 Agri-Vyakaroti is a 3-tier hybrid AI and community-driven ecosystem for early detection and management of crop diseases, designed specifically to bridge the gap between technical concepts and market-ready GovTech ecosystems.
 
 ## 🚀 Live Links
-- **Live Prototype:** [agrivyakaroti-frontend-new.vercel.app]
-- **Frontend Repository:** [https://github.com/AbhiYadav01s/Agrishield-Frontend-NEW]
-- **Demonstration Video:** [https://youtu.be/elOccKth8zE]
+- **Live Prototype:** https://agrivyakaroti-frontend-new.vercel.app/
+- **Frontend Repository:** https://github.com/AbhiYadav01s/Agrishield-Frontend-NEW
+- **Demonstration Video:** https://youtu.be/elOccKth8zE
 
 ## 🧠 Core Architecture
 Our solution is built on a 3-tier ecosystem:
